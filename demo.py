@@ -38,6 +38,7 @@ A plain text answer, formatted as Markdown[1]
 - page: string
 - relevant_passages: "string" // relevant passage in a document
 ...
+請用繁體中文回答
 ```'''
 
 def get_index(index_name='demand-foresight'):
